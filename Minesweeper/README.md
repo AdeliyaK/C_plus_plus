@@ -24,11 +24,11 @@ Print every cell with a number, representinh how many adjacent cells, including 
 
 *example 2  
 -input  
-3 3
-!!!
-!.!
-!!!
+3 3  
+!!!  
+!.!  
+!!!  
 -output  
-353
-585
-353
+353  
+585  
+353  
