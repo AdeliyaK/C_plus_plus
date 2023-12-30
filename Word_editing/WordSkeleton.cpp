@@ -1,9 +1,4 @@
-#include <iostream>
-#include <string>
-#include <sstream>
-
-#include "Initialization.h"
-#include "CommandInterface.h"
+#include "WordSkeleton.h"
 
 int main() {
     std::string text;
