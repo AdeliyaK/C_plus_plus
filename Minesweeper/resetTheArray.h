@@ -1,0 +1,1 @@
+void resetTheArray(int row,int column,int *array);
