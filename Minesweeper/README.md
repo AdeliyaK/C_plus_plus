@@ -7,28 +7,28 @@ You are given an N by M matrix (N and M are two integers entered on the console)
 Print every cell with a number, representinh how many adjacent cells, including itself, are "mined".
 
 # Examples
-*example 1
--input 
+*example 1  
+-input   
 5 8
 ........
 ...!....
 ....!...
 ........
 ...!....
--output 
+-output  
 00111000
 00122100
 00122100
 00122100
 00111000
 
-*example 2
--input
+*example 2  
+-input  
 3 3
 !!!
 !.!
 !!!
--output
+-output  
 353
 585
 353
