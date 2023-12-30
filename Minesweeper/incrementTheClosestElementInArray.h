@@ -1,1 +1,6 @@
+#ifndef IncrementTheClosestElementInArray
+#define IncrementTheClosestElementInArray
+
 void incrementTheClosestElementsInArray(int *pointerToTheOuputArray,int currentColumn,int currentRow,int allRows,int allColumns);
+
+#endif IncrementTheClosestElementInArray
