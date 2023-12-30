@@ -32,3 +32,6 @@ Print every cell with a number, representinh how many adjacent cells, including 
 353  
 585  
 353  
+
+# Restrictions
+-Can't use stl to write a program
