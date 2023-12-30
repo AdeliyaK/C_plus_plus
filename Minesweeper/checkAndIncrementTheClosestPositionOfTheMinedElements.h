@@ -1,5 +1,5 @@
-#ifndef CheckAndIncrementTheClosestPositionOfTheMinedElements
-#define CheckAndIncrementTheClosestPositionOfTheMinedElements
+#ifndef CHECK_AND_INCREMENT_THE_CLOSEST_POSITION_OF_THE_MINED_ELEMENTS_H
+#define CHECK_AND_INCREMENT_THE_CLOSEST_POSITION_OF_THE_MINED_ELEMENTS_H
 #include "incrementTheClosestElementInArray.h"
 
 void checkAndIncrementTheClosestPositionOfTheMinedElements(int column,int row, int *ouputArray, char *inputArray);

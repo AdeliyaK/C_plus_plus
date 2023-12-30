@@ -10,7 +10,7 @@ int main(void){
             cin >> inputArray[column*i+j];   
         
     int *sumArray=new int[row*column]; 
-    resetTheArray(row,column,sumArray);
+    resetArray(row,column,sumArray);
 
     checkAndIncrementTheClosestPositionOfTheMinedElements(column,row,sumArray,inputArray);
     

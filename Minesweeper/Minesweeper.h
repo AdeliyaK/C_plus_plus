@@ -1,8 +1,8 @@
-#ifndef Minesweeper
-#define Minesweeper
+#ifndef MINESWEEPER_H
+#define MINESWEEPER_H
 
 #include <iostream>
-#include "resetTheArray.h"
+#include "resetArray.h"
 #include "checkAndIncrementTheClosestPositionOfTheMinedElements.h"
 #include "printArray.h"
 
